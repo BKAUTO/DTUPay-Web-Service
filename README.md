@@ -1,4 +1,4 @@
-![Overview](https://drive.google.com/file/d/1vAQJBMhWvoXQV42GKzfaOOcjQ9-5uhK3/view?usp=sharing)
+![Overview](https://github.com/BKAUTO/DTUPay-Web-Service/blob/master/DTUPay_Overview.png)
 ![UML](https://drive.google.com/file/d/1lRAo3RH7Ywt6a7rYDt0-XTim2lIcp7fa/view?usp=sharing)
 
 ## Installation Guide
